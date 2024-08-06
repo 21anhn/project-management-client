@@ -52,6 +52,11 @@ A Project Management System is a comprehensive platform designed to streamline p
 
 **Note:** This project is still in progress and actively being improved. Some features are under development and may not be fully functional. Your feedback and contributions are highly appreciated!
 
+## Deployment
+
+This project is deployed on GitHub Pages, applying CI/CD practices. To view the interface, [click here](https://21anhn.github.io/project-management-client/).
+
+
 ## Contact
 
 For any questions or suggestions, feel free to reach out to us at [anhltn21.work@gmail.com](mailto:anhltn21.work@gmail.com).
